@@ -1,6 +1,6 @@
 # Miya Beauty Salon
 
-A Beauty Website where users can book appointments and make reservations.
+A Beauty Website where users can book appointments.
 **Link to project:** http://miyabeautysalon.netlify.app/
 
 
