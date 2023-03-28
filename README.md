@@ -1,5 +1,5 @@
 # Miya-Salon Website
-This is a static website for a salon that provides a range of beauty services. The website is designed to provide potential clients with information about the salon, its services, and pricing.
+This is a static website for a salon / Beauty Parlor that provides a range of beauty services. The website is designed to provide potential clients with information about the salon, its services, and pricing.
 
 #### Link to project 
 <a href="https://miyabeautysalon.netlify.app/"> Miya </a>
@@ -27,7 +27,7 @@ This is a static website, so there are no opportunities for contributions from o
 ## Credits
 This website was developed by Airsay.
 
-##License
+## License
 This website is licensed under the MIT License.
 
 
