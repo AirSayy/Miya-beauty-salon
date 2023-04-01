@@ -7,7 +7,7 @@ This is a static website for a salon / Beauty Parlor that provides a range of be
 
 
 ## Features
-A homepage that introduces the salon and its services
+A homepage that introduces the salon and its services.
 Pages dedicated to different services provided by the salon
 A page with information about the salon's staff and their qualifications
 A contact page where clients can find the salon's address, phone number, and email address
