@@ -25,7 +25,7 @@ The website is designed to be easy to navigate and provide all the necessary inf
 This is a static website, so there are no opportunities for contributions from outside developers.
 
 ## Credits
-This website was developed by Airsay.
+This website was developed by Airsay
 
 ## License
 This website is licensed under the MIT License.
