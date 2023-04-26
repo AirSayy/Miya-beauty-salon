@@ -1,4 +1,4 @@
-# Miya-Salon
+# Miya-Salon.
 This is a static website for a salon / Beauty Parlor that provides a range of beauty services. The website is designed to provide potential clients with information about the salon, its services, and pricing.
 
 ### Link to project 
