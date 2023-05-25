@@ -1,7 +1,7 @@
 ## Miya-Salon
 This is a static website for a salon / Beauty Parlor that provides a range of beauty services. The website is designed to provide potential clients with information about the salon, its services, and pricing.
 
-### Link to project 
+## Link to project 
 <a href="https://miyabeautysalon.netlify.app/"> Miya </a>
 ![miya](https://user-images.githubusercontent.com/107049081/227978669-2e71d502-49da-42bc-bf4b-128173c55478.gif)
 
